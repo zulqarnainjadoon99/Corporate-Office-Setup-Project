@@ -9,6 +9,20 @@
 **Project Period:** November 10 – December 31, 2026  
 **Classification:** Simulated Portfolio Demonstration
 
+## Project Portfolio Visuals
+
+### Main Project Banner
+
+![Corporate Office Setup Project Banner](Gemini_Generated_Image_9x3zht9x3zht9x3z.jpg)
+
+### Project Tasks — Part 01
+
+![Corporate Office Setup Tasks Part 1](Gemini_Generated_Image_le77ovle77ovle77.jpg)
+
+### Project Tasks — Part 02
+
+![Corporate Office Setup Tasks Part 2](Gemini_Generated_Image_zhwn5nzhwn5nzhwn.jpg)
+
 ---
 
 ## Project Overview
@@ -57,8 +71,6 @@ A simulated corporate office setup project demonstrating practical project manag
 - Documented simulated execution monitoring and change control.
 - Prepared final project reporting, lessons learned and closure documentation.
 
----
-
 ## Key Skills Demonstrated
 
 - Project Planning & Coordination
@@ -69,14 +81,6 @@ A simulated corporate office setup project demonstrating practical project manag
 - Stakeholder Communication
 - Project Monitoring and Reporting
 - Documentation and Project Closure
-
-## Portfolio Visuals
-
-Three project graphics are included in this repository:
-
-- Main Project Banner
-- Project Tasks — Part 01
-- Project Tasks — Part 02
 
 ## Project Budget Summary
 
